@@ -1,2 +1,3 @@
-# fee
-fee farm website
+# Token Games
+
+Code repository for Token Games website.
